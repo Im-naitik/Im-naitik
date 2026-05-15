@@ -35,11 +35,6 @@ Machine learning project for predicting student performance using data preproces
 
 GitHub: https://github.com/Im-naitik/Loan_Approval_System
 
-## GitHub Stats
-
-![Naitik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im-naitik&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-naitik&layout=compact)
 
 ## Connect With Me
 
