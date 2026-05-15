@@ -33,7 +33,7 @@ GitHub: https://github.com/Im-naitik/Simple-GenAI-app-using-langchain
 ### Student Performance Prediction
 Machine learning project for predicting student performance using data preprocessing and ML models.
 
-GitHub: https://github.com/Im-naitik/Loan_Approval_System
+GitHub: https://github.com/Im-naitik/mlproject
 
 
 ## Connect With Me
